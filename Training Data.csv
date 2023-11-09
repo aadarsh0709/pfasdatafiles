@@ -1,9 +1,3 @@
-Site Type,Name,Total PFAS,sample Type,Lattitude,Longtitude
-Drinking Water >,Selma,36,Drinking Water,32.4073589,-87.0211007
-Drinking Water >,Brookwoodwater ,21,Drinking Water,33.8836398,-84.0400713
-Drinking Water <,MURPHY  TOWN OF  : HIWASSEE RIVER,0,River,35.06000888,-83.94045258
-Drinking Water <,LAKE SANTEETLAH  TOWN OF: WELL #4,0,Well,35.3637753,-83.86715248
-Drinking Water <,ROBBINSVILLE  TOWN OF: LONG CREEK,0,Drinking Water,35.32472236,-83.81080503
-Drinking Water <,TOWN OF FONTANA DAM  FONTANA LAKE,0,Lake,35.45447625,-83.79636939
-Drinking Water <,CARTOOGECHAYE RIVER,0,River,35.1580789,-83.44419609
-Drinking Water <,WHITTIER SANITARY DISTRICT  WELL #2,6.2,Well,35.43551041,-83.35905409
+Type,Name,PFAS,Lattitude,Longtitude
+Drinking Water >,Selma,36,32.4073589,-87.0211007
+Drinking Water >,Brookwoodwater ,21,33.8836398,-84.0400713
