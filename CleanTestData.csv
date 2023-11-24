@@ -102,7 +102,6 @@ Drinking Water,ROBESON COUNTY WATER SYSTEM,17.87,35.06,-78.87
 Drinking Water,TOWN OF PINK HILL NC,1.4,35.06,-77.75
 River,River Bend  NC,0,35.06,-77.17
 Drinking Water,FAYETTEVILLE-PWC,72.14,35.07,-78.9
-Drinking Water,LAMPLIGHTER SOUTH-DANBY,316,35.08,-80.89
 Drinking Water,FAYETTEVILLE-PWC,115.49,35.09,-78.86
 Drinking Water,UNION COUNTY WATER SYSTEM,158,35.1,-80.6
 Well,PINEBLUFF  TOWN OF  : WELL #2,0,35.11,-79.48
@@ -479,7 +478,7 @@ Well,Milton  NC : Well #6,0,36.53,-79.21
 Lake,NORTHAMPTON--LAKE GASTON,79,36.53,-77.83
 Drinking Water,Jamestown,37,37.21,-76.78
 Drinking Water,Liberty,26,37.35,-79.18
-Drinking Water,Montgomery County,14,39.15,-77.24
+Drinking Water,Montgomery County,14,35.373161623233145, -80.04817698782314
 Drinking Water,Lamplighter South-danby  NC,7.2,42.31,-76.44
-Lake,Northampton--lake Gaston,6.2,42.33,-72.64
-Drinking Water,City of Burlington,51,43.33,-79.8
+Lake,Northampton--lake Gaston,6.2,36.49765457577831, -77.92268825206808
+Drinking Water,City of Burlington,51,36.09371340043565, -79.43521408179087
