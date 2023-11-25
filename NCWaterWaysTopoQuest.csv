@@ -474,7 +474,6 @@ Raft Swamp,Stream,34.6349,-79.0498
 Raynor Swamp,Stream,36.4396,-76.6277
 Reedy Meadow Swamp,Stream,34.6779,-78.7772
 Richland Swamp,Stream,34.6932,-79.0809
-River Swamp,Stream,34.0324,-78.1822
 Robin Swamp,Stream,35.6174,-78.0533
 Rocky Swamp,Stream,36.1571,-77.7528
 Rogers Swamp,Stream,36.4846,-77.2372
@@ -3474,7 +3473,6 @@ Varnals Creek,Stream,35.9862,-79.3511
 Beaverdam Creek,Stream,34.7652,-78.2653
 Big Branch,Stream,34.7346,-78.2808
 Big Tomahawk Creek,Stream,34.7029,-78.3406
-Bills Swamp,Stream,34.8154,-78.3656
 Bridge Branch,Stream,34.8802,-78.2967
 Buckhorn Creek,Stream,34.8741,-78.2842
 Canty Mill Creek,Stream,34.7096,-78.2608
@@ -3577,13 +3575,11 @@ Trout Creek,Stream,35.2229,-83.1407
 Turkey Branch,Stream,35.2401,-83.0685
 Webster Creek,Stream,35.2887,-83.1449
 West Fork Moses Creek,Stream,35.3418,-83.0946
-West Fork Tuckasegee River,Stream,35.2682,-83.1229
 Woods Branch,Stream,35.2573,-83.1082
 Yellow Patch Branch,Stream,35.2898,-82.9632
 Aggie Run,Stream,35.6102,-77.1447
 Bay Branch,Stream,35.4724,-77.0844
 Bear Creek,Stream,35.5513,-77.1011
-Big Swamp,Stream,35.6307,-77.0563
 Brown Branch,Stream,35.4671,-77.0775
 Cals Creek,Stream,35.4868,-77.0213
 Cedar Creek,Stream,35.5079,-77.0394
@@ -3597,18 +3593,13 @@ Herring Run,Stream,35.5491,-77.0225
 Hills Creek,Stream,35.4754,-77.0041
 Hog Hole Branch,Stream,35.4638,-77.0133
 Horse Branch,Stream,35.4713,-77.0869
-Horseway Swamp,Stream,35.4946,-77.1647
-Island Swamp,Stream,35.5024,-77.1769
 Jacks Creek,Stream,35.5368,-77.0438
 Joe Branch,Stream,35.4699,-77.0802
-Juniper Swamp,Stream,35.4807,-77.1472
 Kennedy Creek,Stream,35.5485,-77.0711
 Latham Creek,Stream,35.6385,-77.0908
 Maple Branch,Stream,35.5018,-77.0883
 Maple Branch,Stream,35.5927,-77.1222
-Mill Swamp,Stream,35.6524,-77.0205
 Mitchell Branch,Stream,35.5799,-77.1063
-Old Ford Swamp,Stream,35.6385,-77.0908
 Panther Creek,Stream,35.5668,-77.1355
 Pea Branch,Stream,35.6502,-77.1736
 Pineygrove Branch,Stream,35.5668,-77.0188
@@ -3619,7 +3610,6 @@ Runyon Creek,Stream,35.5357,-77.0394
 Sidney Creek,Stream,35.5096,-77.0577
 Silas Creek,Stream,35.4974,-77.0408
 Snowd Branch,Stream,35.6304,-77.1102
-Tar River,Stream,35.5524,-77.0847
 Taylor Creek,Stream,35.5138,-77.0633
 Tranters Creek,Stream,35.5524,-77.0847
 White Branch,Stream,35.4727,-77.0941
