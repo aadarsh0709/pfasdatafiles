@@ -1,4 +1,4 @@
-Facility Name,Facility ID,County,Regional Office,Latitude,Longitude,SIC,Permit #,Permit Class
+Facility Name,Facility ID,County,Regional Office,Latitude,Longitude,SIC,Permit ,Permit Class
 3A Composites USA Inc.,4900121,Iredell,Mooresville Regional Office,35.8083,-80.9447,2672,03700T23,Title V
 3C Store Fixtures  Inc.,9800226,Wilson,Raleigh Regional Office,35.7398,-77.8768,2541,09859R03,Synthetic Minor
 3M Pittsboro - Industrial Mineral Products,1900104,Chatham,Raleigh Regional Office,35.6609,-79.1673,3295,09006T10,Title V
@@ -639,7 +639,7 @@ Green Acres Land Development - Concrete,2700036,Currituck,Washington Regional Of
 GreenGas USA,800112,Bertie,Washington Regional Office,36.1413,-77.2163,4922,10744R01,Synthetic Minor
 Greif Packaging  LLC - CorrChoice Concord,1300083,Cabarrus,Mooresville Regional Office,35.3325,-80.6143,2653,06503R13,Synthetic Minor
 Grifols Therapeutics LLC,5100103,Johnston,Raleigh Regional Office,35.6198,-78.4199,2836,03380R20,Synthetic Minor
-Gr„nges Americas  Inc.,8000057,Rowan,Mooresville Regional Office,35.6413,-80.4691,3353,02397T26,Title V
+GrÂ„nges Americas  Inc.,8000057,Rowan,Mooresville Regional Office,35.6413,-80.4691,3353,02397T26,Title V
 Guilford County Terminal Company  LLC,4100867,Guilford,Winston-Salem Regional Office,36.0731,-79.9294,4226,02585T24,Title V
 Gulfstream Steel,6700159,Onslow,Wilmington Regional Office,34.5,-77.6667,3499,10105R03,Small
 H. W. Culp Lumber Co  Inc.,8400020,Stanly,Mooresville Regional Office,35.4514,-80.2256,2421,04897T25,Title V
